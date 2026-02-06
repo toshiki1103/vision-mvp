@@ -1,7 +1,10 @@
 README.md
 
 # ①課題名 
+個人の生活習慣（メンタル）をAIで最適化・質を上げる
+パーソナル・オペレーティング・システム
 Generative Life Integration Tool
+
 
 ## ②課題内容（どんな作品か） 
 GoogleChromeの拡張機能（新タブ開いた際のスペース）×LINE（未実装）
