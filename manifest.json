@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Vision MVP",
+  "version": "1.0",
+  "description": "目標管理とセレンディピティ・メモ",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "メモを保存"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
